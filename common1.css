@@ -2434,7 +2434,7 @@ body[data-bg-color=blue] .site-fixed-sp-bottom__wrap {
   vertical-align: middle;
 }
 .site-under-top__pankuzu li a {
-  color: #751485;
+  color: #222222;
 }
 .site-under-top__pankuzu li::after {
   content: "";
@@ -3601,3 +3601,4 @@ a.site-common__skip:focus ~ .site-common__container .site-common__header-menu {
 .fr-editor .movie-display__wrap .cp-inner a {
   display: inline;
 }
+

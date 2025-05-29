@@ -2395,7 +2395,7 @@ body[data-bg-color=blue] .site-fixed-sp-bottom__wrap {
   display: flex;
   justify-content: space-between;
   padding-top: 15px;
-  padding: 7px 10px;
+  padding: 7px 20px;
   width: calc(100% + 30px);
   margin-left: -15px;
 }
@@ -3601,4 +3601,3 @@ a.site-common__skip:focus ~ .site-common__container .site-common__header-menu {
 .fr-editor .movie-display__wrap .cp-inner a {
   display: inline;
 }
-

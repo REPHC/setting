@@ -1642,7 +1642,7 @@ body[data-bg-color=blue] .site-ob-sitemap__wrap .site-popup-gmenu__item-button.i
 }
 .site-popuo-sidemenu__panel2 {
 	z-index: 98;
-	background-color: #f2eedd;
+	background-color: #ffe8eb;
 }
 .site-popuo-sidemenu__panel2.is-active {
 	left: 460px;
@@ -1672,11 +1672,11 @@ body[data-bg-color=blue] .site-ob-sitemap__wrap .site-popup-gmenu__item-button.i
 }
 .site-popuo-sidemenu__item a:hover {
 	text-decoration: none;
-	background-color: #f2eedd;
+	background-color: #ffe8eb;
 }
 .site-popuo-sidemenu__item.is-hover a {
 	text-decoration: none;
-	background-color: #f2eedd;
+	background-color: #ffe8eb;
 }
 .site-popuo-sidemenu__panel2 .site-popuo-sidemenu__item a:hover {
 	background-color: #fff;
@@ -1991,7 +1991,7 @@ body[data-bg-color=blue] .site-popup-gmenu__sp-visitors li a {
 	object-fit: cover;
 }
 .site-under-top__wrap {
-	background-color: #f2eedd;
+	background-color: #ffe8eb;
 	display: flex;
 	justify-content: space-between;
 	padding-top: 15px;
@@ -2017,7 +2017,7 @@ body[data-bg-color=blue] .site-under-top__wrap {
 	height: 0;
 }
 .site-under-top__pankuzu::-webkit-scrollbar-track {
-	background: #f2eedd;
+	background: #ffe8eb;
 }
 .site-under-top__pankuzu::-webkit-scrollbar-thumb {
 	border-radius: 0;
@@ -2166,7 +2166,7 @@ body[data-bg-color=blue] .site-under-top__wrap {
 	color: #333 !important;
 	height: 60px;
 	border-radius: 2px;
-	border: 1px solid #ffe8eb;
+	border: 1px solid #ffeeee;
 	background-color: #F9FBFC;
 	align-items: center;
 	font-size: 1.6rem;
